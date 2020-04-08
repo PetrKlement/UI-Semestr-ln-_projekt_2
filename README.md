@@ -6,6 +6,7 @@ Celý program byl zpracován v programovacím jazyce C#. Jednotlivé kroky genet
 • Křížení – promísení částí dvou tras
 • Mutace – náhodné změny
 • Opakování – proces se opakuje od bodu vyhodnocení
+*****************************
 444
 455
 gg
