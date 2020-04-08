@@ -7,3 +7,5 @@ Celý program byl zpracován v programovacím jazyce C#. Jednotlivé kroky genet
 • Mutace – náhodné změny
 • Opakování – proces se opakuje od bodu vyhodnocení
 444
+455
+gg
