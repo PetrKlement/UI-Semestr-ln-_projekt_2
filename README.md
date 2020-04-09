@@ -2,7 +2,7 @@
 Celý program byl zpracován v programovacím jazyce C#. 
 - Úkolem projektu bylo najít nejkratší cestu mezi městy v Tasmánii s využitím logiky genetického algoritmu. Hodnoty vzdáleností mezi nimi jsou v dokumentu Distance.xlsx. 
 ********
-# Jednotlivé kroky genetického algoritmu v našem případě jsou:
+# Postup
 Jednotlivé kroky genetického algoritmu v našem případě jsou:
 - Inicializace – vytvoření první generace
 - Vyhodnocení – určení celkové vzdálenosti pro jednotlivé trasy
