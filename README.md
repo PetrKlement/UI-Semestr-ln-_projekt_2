@@ -1,5 +1,5 @@
-# UI-Semestralni_projekt_2
-Celý program byl zpracován v programovacím jazyce C#. 
+# UI-Semestrální projekt 2
+Celý program byl zpracován v jazyce C#. 
 - Úkolem projektu bylo najít nejkratší cestu mezi městy v Tasmánii s využitím logiky genetického algoritmu. Hodnoty vzdáleností mezi nimi jsou v dokumentu Distance.xlsx. 
 ************************************
 # Postup
