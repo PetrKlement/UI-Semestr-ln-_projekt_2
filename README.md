@@ -15,6 +15,6 @@ Jednotlivé kroky genetického algoritmu v našem případě jsou:
 Windows:
 - Je třeba mít soubor SalesMan.exe, který je součástí odevzdané práce
 - Je třeba mít program, který je schopen ho spustit. V našem případě například IDE Visual studio
-- Je třeba mít přiložený soubor Distance.xlsx uložený na disku D ( D:\ Distance.xlsx). Pokud by ho chtěl mít uživatel uložen jinde, je třeba upravit cestu ve třídě HledaniCest na 32. řádku.
+- Je třeba mít přiložený soubor Distance.xlsx uložený na disku D ( D:\ Distance.xlsx). Pokud by ho chtěl mít uživatel uložen jinde, je třeba upravit cestu ve třídě SearchPaths na 48. řádku.
 ***************
 
